@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"> <!--meta tag: define info about the file-->
+        <meta name="description" content="THis is a test website">
+        <title>My website</title> <!--title of the website (website name)-->
+    </head>
+    <body>
+        <h1>Header</h1> <!--header: head of a website (title). Number: sets size of the header-->
+        <br/> <!--makes an space between 2 tags-->
+        <hr/> <!--creates a line to seperate text-->
+        <p>Paragraph1</p> <!--p: here you can put text in-->
+        <p><b>Paragraph2</b></p> <!--b: makes text fat printed-->
+        <p><i>Paragraph3</i></p> <!--i: makes diagonal text-->
+        <p><big>Paragraph4</big></p> <!--big: makes text bigger-->
+        <p><small>Paragraph5</small></p> <!--small: makes text smaller-->
+        <p>H<sub>2</sub>0</p> <!--subscript tag-->
+        <p>E= MC<sup>2</sup></p> <!--superscript tag-->
+
+        <h1 style="color: springgreen">Style & colors</h1>
+        <p style="color:springgreen; background-color: teal;">colors</p> <!--color sets text color and background-color marks text--> <!--you can also use these in body tags-->
+    </body>
+</html>
+
+-----------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"> <!--meta tag: define info about the file-->
+        <meta name="description" content="THis is a test website">
+        <title>My website</title> <!--title of the website (website name)-->
+    </head>
+    <body>
+        <header>
+            <nav> <!--store navigational content-->
+                
+            </nav>
+        </header>
+
+        <main>
+            <article> <!--used to make an article block-->
+                <section> <!--creates different sections on the website-->
+                    <aside> <!--is used for as example advertisements-->
+
+                    </aside>
+                </section>
+            </article>
+        </main>
+
+        <footer>
+
+        </footer>
+    </body>
+</html>
+----------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"> <!--meta tag: define info about the file-->
+        <meta name="description" content="THis is a test website">
+        <title>My website</title> <!--title of the website (website name)-->
+    </head>
+    <body>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+            video about monkeys
+        </a>
+        <br/>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+            video about monkeys (new tab)
+        </a>
+    </body>
+</html>
