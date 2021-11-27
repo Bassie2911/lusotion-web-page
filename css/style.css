@@ -1,0 +1,13 @@
+.character-link:link {
+    color:black;
+    text-decoration: none;
+}
+
+.character-link:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.character-link:hover {
+    color: teal;
+}
