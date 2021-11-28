@@ -9,5 +9,10 @@
 }
 
 .character-link:hover {
-    color: teal;
+    color: rgb(163, 5, 202);
+}
+
+body{
+    background: radial-gradient(rgba(186, 85, 211,0.2), rgb(186, 85, 211));
+    background-size: cover;
 }
