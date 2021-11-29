@@ -13,6 +13,10 @@
 }
 
 body{
-    background: radial-gradient(rgba(186, 85, 211,0.2), rgb(186, 85, 211));
+    background: radial-gradient(rgba(186, 85, 211, 0.2), rgb(186, 85, 211));
     background-size: cover;
+}
+
+.demons-background {
+    background: radial-gradient(rgba(184, 31, 31, 0.2), rgb(184, 31, 31));
 }
