@@ -43,3 +43,8 @@ body{
     background: radial-gradient(rgba(42, 235, 215, 0.2), rgb(42, 235, 215));
     background-repeat: no-repeat;
 }
+
+/*texts*/
+.text {
+    text-align: justify;
+}
