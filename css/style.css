@@ -16,25 +16,30 @@
 /*backgrounds*/
 body{
     background: radial-gradient(rgba(186, 85, 211, 0.2), rgb(186, 85, 211));
-    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .demons-background {
     background: radial-gradient(rgba(184, 31, 31, 0.2), rgb(184, 31, 31));
+    background-repeat: no-repeat;
 }
 
 .humans-background {
     background: radial-gradient(rgba(0, 181, 75, 0.2), rgb(0, 181, 75));
+    background-repeat: no-repeat;
 }
 
 .wizards-background {
     background: radial-gradient(rgba(219, 61, 164, 0.2), rgb(219, 61, 164));
+    background-repeat: no-repeat;
 }
 
 .hunters-background {
     background: radial-gradient(rgba(235, 131, 52, 0.2), rgb(235, 131, 52));
+    background-repeat: no-repeat;
 }
 
 .elfs-background {
     background: radial-gradient(rgba(42, 235, 215, 0.2), rgb(42, 235, 215));
+    background-repeat: no-repeat;
 }
